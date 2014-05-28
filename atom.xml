@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Radio Proyectiva Real]]></title>
   <link href="http://radioProyectivaReal.github.io/atom.xml" rel="self"/>
   <link href="http://radioProyectivaReal.github.io/"/>
-  <updated>2014-05-28T19:55:58-03:00</updated>
+  <updated>2014-05-28T20:27:18-03:00</updated>
   <id>http://radioProyectivaReal.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Tres Gatos Locos]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>

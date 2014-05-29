@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Radio Proyectiva Real]]></title>
-  <link href="http://radioProyectivaReal.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: sample post | Radio Proyectiva Real]]></title>
+  <link href="http://radioProyectivaReal.github.io/blog/categories/sample-post/atom.xml" rel="self"/>
   <link href="http://radioProyectivaReal.github.io/"/>
   <updated>2014-05-29T20:15:59-03:00</updated>
   <id>http://radioProyectivaReal.github.io/</id>

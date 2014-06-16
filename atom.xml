@@ -4,7 +4,7 @@
   <title><![CDATA[Radio Proyectiva Real]]></title>
   <link href="http://radioProyectivaReal.github.io/atom.xml" rel="self"/>
   <link href="http://radioProyectivaReal.github.io/"/>
-  <updated>2014-06-11T23:01:39-03:00</updated>
+  <updated>2014-06-16T12:26:53-03:00</updated>
   <id>http://radioProyectivaReal.github.io/</id>
   <author>
     <name><![CDATA[Tres Gatos Locos]]></name>
@@ -18,9 +18,12 @@
     <link href="http://radioProyectivaReal.github.io/blog/2014/06/03/ahora-mismo/"/>
     <updated>2014-06-03T19:28:56-03:00</updated>
     <id>http://radioProyectivaReal.github.io/blog/2014/06/03/ahora-mismo</id>
-    <content type="html"><![CDATA[<p style="text-align: center"><a href="http://rpr.out.airtime.pro:8000/rpr_a"><img src="http://media.giphy.com/media/Phq9gRFd8MIOk/giphy.gif" alt="Radio en vivo" title="radio en vivo" /></a></p>
+    <content type="html"><![CDATA[<p style="text-align: center"><img src="http://media.giphy.com/media/Phq9gRFd8MIOk/giphy.gif" alt="Radio en vivo" title="radio en vivo" /></p>
 
-<p style="text-align: center"><a href="http://rpr.out.airtime.pro:8000/rpr_a" title="Player">Escuchá la radio acá</a></p>
+<!-- [Escuchá la radio acá](http://rpr.out.airtime.pro:8000/rpr_a "Player")
+{: style="text-align: center"} -->
+
+<iframe src="http://radioProyectivaReal.github.io/player/1.html" frameborder="0" border="0" cellspacing="0" style="border-style: none;width: 100%; height: 300px; margin:0 auto"></iframe>
 ]]></content>
   </entry>
   

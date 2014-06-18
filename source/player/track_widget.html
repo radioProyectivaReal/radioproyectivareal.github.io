@@ -3,24 +3,26 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Airtime widgets</title>
+<link href="skin/jplayer.blue.monday.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+<script type="text/javascript" src="js/jquery.jplayer.min.js"></script>
 <script src="http://rpr.airtime.pro/widgets/js/jquery-1.6.1.min.js" type="text/javascript"></script>
 <script src="http://rpr.airtime.pro/widgets/js/jquery-ui-1.8.10.custom.min.js" type="text/javascript"></script>
 <script src="http://rpr.airtime.pro/widgets/js/jquery.showinfo.js" type="text/javascript"></script>
 <link href="http://rpr.airtime.pro/widgets/css/airtime-widgets.css" rel="stylesheet" type="text/css" />
-<script>
+<script type="text/javascript">
 $(document).ready(function() {
     $("#headerLiveTrackHolder").airtimeLiveTrackInfo({
         sourceDomain: "http://rpr.airtime.pro",
-        text: {onAirNow:"On Air Now", offline:"Offline", current:"Current", next:"Next"},
+        text: {onAirNow:"Al aire ahora", offline:"Offline", current:"Actual", previous:"Anterior"},
         updatePeriod: 20 //seconds
     });
-    var d = new Date().getDay();
-    $('#scheduleTabs').tabs({selected: d === 0 ? 6 : d-1, fx: { opacity: 'toggle' }});
 
 });
 </script>
+<body>
 
 <div id="headerLiveTrackHolder" style="border: 1px solid #999999; padding: 10px;"></div>
 
-</body>
+
 </html>

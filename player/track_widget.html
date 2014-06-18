@@ -14,11 +14,9 @@
 $(document).ready(function() {
     $("#headerLiveTrackHolder").airtimeLiveTrackInfo({
         sourceDomain: "http://rpr.airtime.pro",
-        text: {onAirNow:"Al aire ahora", offline:"Offline", current:"Actual", next:"Siguiente"},
+        text: {onAirNow:"Al aire ahora", offline:"Offline", current:"Actual", previous:"Anterior"},
         updatePeriod: 20 //seconds
     });
-    var d = new Date().getDay();
-    $('#scheduleTabs').tabs({selected: d === 0 ? 6 : d-1, fx: { opacity: 'toggle' }});
 
 });
 </script>

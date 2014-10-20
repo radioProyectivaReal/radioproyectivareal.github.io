@@ -1,66 +1,31 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  
-  <url>
-    <loc>http://radioProyectivaReal.github.io/blog/2014/06/03/ahora-mismo/</loc>
-    <lastmod>2014-06-03T19:28:56-03:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  
-  
-  <url>
-    <loc>http://radioProyectivaReal.github.io/blog/</loc>
-    <lastmod>2014-08-03T14:57:38-03:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  
-  <url>
-    <loc>http://radioProyectivaReal.github.io/archives/</loc>
-    <lastmod>2014-08-03T14:57:38-03:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  
-  <url>
-    <loc>http://radioProyectivaReal.github.io/blog/archives/</loc>
-    <lastmod>2014-08-03T14:57:38-03:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  
-  <url>
-    <loc>http://radioProyectivaReal.github.io/</loc>
-    <lastmod>2014-08-03T14:57:38-03:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  
-  <url>
-    <loc>http://radioProyectivaReal.github.io/player/</loc>
-    <lastmod>2014-08-03T14:57:38-03:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  
-  
-  <url>
-    <loc>http://radioProyectivaReal.github.io/player/prueba.html</loc>
-    <lastmod>2014-06-17T22:29:1403054956Z</lastmod>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://radioProyectivaReal.github.io/player/1.html</loc>
-    <lastmod>2014-07-22T16:37:1406057875Z</lastmod>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://radioProyectivaReal.github.io/player/track_widget.html</loc>
-    <lastmod>2014-08-03T14:57:1407088626Z</lastmod>
-    <priority>0.6</priority>
-  </url>
-  
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://radioProyectivaReal.github.io/blog/2014/06/03/ahora-mismo/</loc>
+        <lastmod>2014-10-20T19:35:52-03:00</lastmod>
+    </url>
+    <url>
+        <loc>http://radioProyectivaReal.github.io/</loc>
+        <lastmod>2014-10-20T19:35:52-03:00</lastmod>
+    </url>
+    <url>
+        <loc>http://radioProyectivaReal.github.io/robots.txt</loc>
+        <lastmod>2014-10-20T19:26:39-03:00</lastmod>
+    </url>
+    <url>
+        <loc>http://radioProyectivaReal.github.io/blog/</loc>
+        <lastmod>2014-10-20T19:35:52-03:00</lastmod>
+    </url>
+    <url>
+        <loc>http://radioProyectivaReal.github.io/blog/archives/</loc>
+        <lastmod>2014-10-20T19:35:52-03:00</lastmod>
+    </url>
+    <url>
+        <loc>http://radioProyectivaReal.github.io/player/</loc>
+        <lastmod>2014-10-20T19:26:39-03:00</lastmod>
+    </url>
+    <url>
+        <loc>http://radioProyectivaReal.github.io/archives/</loc>
+        <lastmod>2014-10-20T19:35:52-03:00</lastmod>
+    </url>
 </urlset>
